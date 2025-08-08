@@ -1,6 +1,6 @@
 # SwiggyDataAnalysis
 Swiggy Restaurants Analysis - Tableau Project
-Overview
+Overview-
 This Tableau dashboard presents an interactive analysis of Swiggy restaurant data covering 76,408 restaurants across 141 cities in 15 countries. It explores key metrics such as average cost, customer votes, popular cuisines, online delivery trends, and more.
 Key Features
 • Top 5 restaurants visualized based on average cost and total votes.
